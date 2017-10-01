@@ -9,7 +9,7 @@ Install opencv, scrapy, tqdm packages in Python 3.
 ## Run
 
 1. Put `erogamescape_sql_output.zip` into `data/`.
-2. Put `data/lbpcascade_animeface.xml` into `data/`.
+2. Put `lbpcascade_animeface.xml` into `data/`.
 3. Run the following:
 
 ```bash
